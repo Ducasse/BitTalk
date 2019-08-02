@@ -4,10 +4,10 @@
 Class {
 	#name : #BaselineOfBitTalk,
 	#superclass : #BaselineOf,
-	#category : #'BitTalk-Baseline'
+	#category : #BaselineOfBitTalk
 }
 
-{ #category : #'as yet unclassified' }
+{ #category : #baseline }
 BaselineOfBitTalk >> baseline: spec [
 	<baseline>
 	spec
